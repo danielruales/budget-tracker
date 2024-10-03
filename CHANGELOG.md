@@ -2,6 +2,7 @@
 
 ## Unreleased
 ### Added
+- Budget edit and view functionality
 ### Changed
 ### Fixed
 
